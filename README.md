@@ -17,6 +17,5 @@ Admin:
 
 Notes:
 - For production use PostgreSQL and set DATABASE_URL accordingly.
-- Replace the simple admin-password flow with NextAuth/Clerk/other identity provider for secure auth in production.
---
+
 ```
